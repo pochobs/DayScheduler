@@ -6,9 +6,10 @@ It is a daily organizer, where you can keep track of your activities and also ma
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Questions](#questions)
+  * [Page Preview](#page-preview)
   
 ## Installation
-To install necessary dependencies, run the following command:
+No Installation needed
 
 ## Usage  
   * [Link to app](https://pochobs.github.io/DayScheduler/)
